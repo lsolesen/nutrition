@@ -1,0 +1,35 @@
+#!/usr/bin/env php
+<?php
+#TASK Import MET data from file
+require_once(dirname(__FILE__) . '/../config/global.inc.php');
+require_once(dirname(__FILE__) . '/../lib/mets.inc.php');
+$container = create_container();
+/*
+$mets = $container->create('Mets');
+$row = 1;
+$met = array();
+if (($handle = fopen(realpath(dirname(__FILE__) . "/../data/classif.csv"), "r")) !== FALSE) {
+    while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
+        $num = count($data);
+        for ($c=0; $c < $num; $c++) {
+            switch ($c) {
+                case 1:
+                    $met[$row]['category'] = $data[$c];
+                    break;
+                case 2:
+                    $met[$row]['name'] = $data[$c];
+                    break;
+                case 3:
+                    $met[$row]['value'] = $data[$c];
+                    break;
+            }
+            
+        }
+        $row++;
+    }
+    fclose($handle);
+}
+foreach ($met as $m) {
+    $mets->insert($m);
+}
+*/
