@@ -1,15 +1,6 @@
-<h1>Mets</h1>
-
-<form action="<?php e(url()); ?>" method="get">
-    <fieldset>
-        <legend>Search</legend>
-        <?php echo html_text_field('q', $context->query('q')); ?>
-        <input type="submit" value="Søg" />
-    </fieldset>
-</form>
-
+<h1>Foodinfos</h1>
 <?php
-    $fields = $mets->getListableColumns();
+    $fields = $foodinfos->getListableColumns();
     $rowlink = true;
     $row_actions = array('edit', 'delete');
     $collection_actions = array('new');
@@ -18,14 +9,7 @@
     $sort_direction = strtolower($context->query('direction')) === 'desc' ? 'desc' : 'asc';
     $sort = $context->query('sort');
     $offset = ($context->query('page', 1) - 1) * $page_size;
-    $selection = $mets->selectPaginated($context->query('page'), $page_size, $offset, $sort, $sort_direction);
-    $selection->setOrder($sort, $sort_direction);
-
-    if ($context->query('q')) {
-      $selection->setConjunctionOr();
-      $selection->addCriterion('name', '%' . $context->query('q') . '%', 'like');
-      $selection->addCriterion('category', '%' . $context->query('q') . '%', 'like');
-    }
+    $selection = $foodinfos->select($page_size, $offset, $sort, $sort_direction);
 ?>
 <?php if (count($selection) > 0): ?>
 <?php
@@ -106,7 +90,7 @@
   <tfoot>
     <tr>
       <td colspan="<?php e($colspan) ?>">
-<?php echo collection_paginate($selection, $page_size, array('q')) ?>
+<?php echo collection_paginate($foodinfos, $page_size) ?>
       </td>
     </tr>
   </tfoot>
