@@ -1,0 +1,149 @@
+MainGrp;SubGrp;EngFdGp;OrigFdGp
+01;;Milk and milk products;Konsummælk og mælkekonserves
+01;00;Other milk products;Andre mælkeprodukter
+01;10;Unfermented milk products;Usyrnede mælkeprodukter
+01;20;Fermented milk products;Syrnede mælkeprodukter
+01;30;Whole milk;Råmælk o.l.
+01;80;Whey;Valle
+01;90;UHT milk, canned milk products;Mælkekonserves
+02;;Cheese and cheese products;Ost og osteprodukter
+02;00;Other cheeses;Andre osteprodukter
+02;10;Hard, unripened cheese;Fast surmælksost
+02;20;Soft, unripened cheese;Blød surmælksost
+02;30;Hard, ripened cheese;Fast løbeost
+02;40;Soft, ripened cheese;Blød løbeost
+02;50;Semisoft, ripened cheese;Halvfast løbeost
+02;60;Whey cheese;Valleost
+02;70;Processed cheese;Smelteost
+03;;Ice cream, fruit ice and other ice;Konsumis
+03;00;Other ice;Anden is
+03;10;Ice cream;Flødeis
+03;20;Ice cream, low fat;Mælkeis
+03;30;Fruit ice etc.;Limonadeis
+03;40;Sherbet;Sorbet
+03;50;Non dairy, vegetable based ice;Ermolis
+03;90;Frozen desserts;Dybfrosne desserter
+04;;Grains, cereals and cereal products;Korn og stivelsesprodukter
+04;00;Other cereal products;Andre kornprodukter
+04;10;Grain;Kornsorter
+04;20;Groats;Gryn
+04;30;Flours;Mel
+04;40;Breads;Brød
+04;50;Cakes, pastry etc.;Andet bagværk
+04;51;Pastry;Wienerbrød
+04;52;Swiss rolls, sponge cakes, madeiras;Skærekager
+04;53;Cream pastry;Fløde-/cremekager
+04;54;Biscuits;Tørkager
+04;55;Other cakes, pastry;Kager, andet
+04;60;Breakfast cereals;Morgenprodukter
+04;70;Pasta products;Pastaprodukter
+05;;Vegetables and vegetable products;Grønsager og grønsagsprodukter
+05;00;Other vegetables;Andre grønsager
+05;10;Roots and tubers;Rod- og knoldgrøntsager
+05;20;Leafy and stem vegetables;Blad- og stængelgrøntsager
+05;30;Fruiting vegetables;"Frugt"-grøntsager
+05;40;Pulses, legumes;Bælgplanter
+05;50;Composite or umbellifer plants;Kurve- og skærmplanter
+05;60;Mushrooms;Svampe
+05;70;Herbs;Krydderurter
+05;80;Vegetable nectar and juice;Grøntsagssaft og -juice
+05;90;Vegetable products;Grøntsagsprodukter
+06;;Fruit and fruit products;Frugt og frugtprodukter
+06;00;Other fruit;Anden frugt
+06;10;Core or pome fruit, malaceous fruit;Kernefrugt
+06;20;Stone fruit, pitfruit;Stenfrugt
+06;30;Berry;Bærfrugt
+06;40;Tropical or subtropical fruit;Sydfrugt
+06;50;High fat fruit, nut or seed;Fedtrig frugt og frø
+06;80;Fruit nectar and juice;Frugtsaft og juice
+06;90;Fruit products;Frugtprodukter
+07;;Meat and meat products;Kød og kødprodukter
+07;00;Other meat;Andet kød
+07;10;Beef;Oksekød
+07;20;Veal;Kalvekød
+07;30;Pork;Svinekød
+07;40;Sheep or lamb;Fåre- og lammekød
+07;50;Horse;Hestekød
+07;60;Game, venison;Vildt
+07;70;Delicatessen;Charcuterivarer
+07;71;Delicatessen, filling (sandwich);Pålægsvarer
+07;80;Offal;Indmad
+07;90;Other meat products;Andre kødprodukter
+08;;Fish and fish products;Fisk og fiskeprodukter
+08;00;Other fish;Anden fisk
+08;10;Fresh-water, sweet water fish;Ferskvandsfisk
+08;11;Fatty freshwater fish;Fed ferskvandsfisk
+08;20;Salt-water fish;Saltvandsfisk
+08;22;Lean salt-water fish;Mager saltvandsfisk
+08;30;Shellfish;Skaldyr
+08;40;Molluscs;Bløddyr
+08;80;Offal;Indmad
+08;90;Fish products;Fiskeprodukter
+09;;Poultry and poultry products;Fjerkræ og fjerkræprodukter
+09;10;Hen;Hønsefugle
+09;20;Web-footed birds;Svømmefugle
+09;30;Game birds;Fuglevildt
+09;80;Offal;Indmad
+09;90;Poultry products;Fjerkræprodukter
+10;;Eggs and egg products;Æg og ægprodukter
+10;10;Fresh eggs;Friske æg
+10;20;Pasteurised eggs;Flydende æg
+10;30;Dried eggs;Tørrede æg
+10;90;Other egg products;Andre ægprodukter
+11;;Fats, oils and their products;Fedtsoffer og fedtstofprodukter
+11;00;Other fats or oils;Andre fedtstofprodukter
+11;10;Animal fats;Animalske fedtstoffer
+11;20;Vegetable fats;Vegetabilske fedtstoffer
+11;30;Margarines;Margariner
+11;40;Butter;Smør
+11;50;Mayonnaises;Mayonnaiser
+11;60;Dressings;Dressings
+11;90;Other fat or oil products;Andre fedtstofprodukter
+12;;Sugar, honey and products thereof;Sukker, honning og sukkervarer
+12;00;Other sugar products;Andre sukkervarer
+12;10;Sugar;Sukker
+12;20;Honey;Honning
+12;90;Sugar products;Sukkervarer
+13;;Beverages;Drikkevarer
+13;00;Other beverages;Andre drikkevarer
+13;10;Coffee, tea, cocoa and chocolate;Kaffe, te, kakao og chokolade
+13;11;Coffee;Kaffe
+13;12;Tea;Te
+13;13;Cocoa and chocolate;Kakao og chokolade
+13;20;Soft drink, lemonade, mineral water etc;Limonade, mineralvand, saftdrik o.l.
+13;30;Beer and other malt beverages;Øl og andre maltdrikke
+13;40;Wine;Vine
+13;50;Fortified wine;Hedvine
+13;55;Liqueur;Likør
+13;60;Liquer;Spiritus
+13;90;Tap water;Drikkevand
+14;;Spices and other ingredients;Krydderier og andre hjælpestoffer
+14;00;Other ingredients;Andre hjælpestoffer
+14;10;Spices;Krydderier
+14;20;Industrial ingredients;Industrielle hjælpestoffer
+14;30;Yeast and yeast products;Gær og gærprodukter
+14;40;Baking powder etc.;Bagepulver o.l.
+14;50;Bouillon etc.;Bouillon o.l.
+14;60;Vinegar;Eddike
+14;70;Salt;Salt
+14;80;Spicy sauces;Kryddersaucer
+15;;Mixed foods;Sammensatte levnedsmidler
+15;00;Other mixed foods;Andre sammensatte levnedsmidler
+15;10;Ready-prepared dishes;Færdigretter
+15;20;Prepared dishes;Tilberedte retter
+15;30;Vegetable salads;Råsalater
+15;40;Sandwiches;Sandwiches
+15;50;Desserts;Desserter
+15;60;Mayonnaise salads;Mayonnaisesalater
+16;;Foods for special nutritional use;Levnedsmidler til særlig ernæring
+16;00;Infusion liquids;Infusionsvæske
+16;10;Baby food;Spædbørnsmad
+16;20;Toddler food;Børnemad
+16;30;Vitamin/mineral products/tonics;Kosttilskudspræparater
+16;40;Special health food products;Specielle helsekostpræparater
+16;50;Slimming diet/food;Slankekost
+16;60;Supplemental food;Tilskudskost
+16;70;Enteral food;Sondekost
+16;80;Diabetic food;Diabetikerkost
+17;;Other foods;Andre levnedsmidler
+17;10;Snacks;Snacks

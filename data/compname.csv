@@ -1,0 +1,113 @@
+CompId;SrtOrd;Unit;CmpNamDK;CmpNamEN;PublStatus;EurofoodsTag
+0000;0000;kJ;Energi;Energy;1;ENERC
+0001;0001;g;Protein, total;Protein, total;1;PROT
+0002;0002;g;  total-N;  total-N;1;NT
+0003;0003;g;Fedt, total;Fat, total;1;FAT
+0004;0004;g;  mættede fedtsyrer;  saturated fatty acids;1;FASAT
+0005;0005;g;  monoumætt. fedtsyrer;  monounsaturated fatty acids;1;FAMS
+0006;0006;g;  polyumætt. fedtsyrer;  polyunsaturated fatty acids;1;FAPU
+0007;0008;g;  kulhydrat, tilgængelig;  carbohydrate, available;1;CHO
+0008;0007;g;Kulhydrat, total;Carbohydrate, total;1;CHOT
+0009;0009;g;  tilsat sukker;  added sugar;1;SUGAD
+0010;0010;g;  kostfibre;  dietary fibre;1;FIBT
+0011;0011;g;Alkohol;Alcohol;1;ALC
+0012;0012;g;Aske;Ash;1;ASH
+0013;0013;g;Vand;Moisture;1;WATER
+0014;0014;RE;A-vitamin;Vitamin A;1;VITA
+0015;0015;µg;  Retinol;  retinol;1;RETOL
+0016;0016;µg;  β-caroten;  β-carotene eq.;1;CARTBEQ
+0023;0023;µg;D-vitamin;Vitamin D;1;VITD
+0024;0024;µg;  D3 cholecalciferol;  D3 cholecalciferol;1;CHOCAL
+0025;0025;µg;  D2 ergocalciferol;  D2 ergocalciferol;1;ERGCAL
+0026;0027;"&#945;-TE";E-vitamin;Vitamin E;1;VITE
+0027;0028;mg;  alfa-tokoferol;  alpha-tocopherol;1;TOCPHA
+0035;0036;µg;K-vitamin;Vitamin K;1;VITK
+0036;0037;mg;B1-vitamin, thiamin;Vitamin B1, thiamin;1;THIA
+0037;0038;mg;B2-vitamin, riboflavin;Vitamin B2, riboflavin;1;RIBF
+0038;0039;NE;Niacin;Niacin equivalents;1;NIAEQ
+0039;0040;mg;  niacin;  niacin;1;NIA
+0040;0041;mg;  tryptofans bidrag;  tryptophan;1;NIATRP
+0041;0042;mg;B6-vitamin;Vitamin B6;1;VITB6
+0045;0046;mg;Pantothensyre;Pantothenic Acid;1;PANTAC
+0046;0047;µg;Biotin;Biotin;1;BIOT
+0047;0048;µg;Folat;Folates;1;FOL
+0049;0050;µg;B12-vitamin;Vitamin B12;1;VITB12
+0050;0051;mg;C-vitamin;Vitamin C;1;VITC
+0051;0052;mg;  L-ascorbinsyre;  L-Ascorbic Acid;1;ASCL
+0052;0053;mg;  L-dehydroascorbins.;  L-Dehydroascorbic acid;1;ASCDL
+0056;0057;mg;Natrium, Na;Sodium, Na;1;NA
+0057;0058;mg;Kalium, K;Potassium, K;1;K
+0058;0059;mg;Calcium, Ca;Calcium, Ca;1;CA
+0059;0060;mg;Magnesium, Mg;Magnesium, Mg;1;MG
+0060;0061;mg;Phosphor, P;Phosphorus, P;1;P
+0061;0062;mg;Jern, Fe;Iron, Fe;1;FE
+0064;0065;mg;Kobber, Cu;Copper, Cu;1;CU
+0065;0066;mg;Zink, Zn;Zinc, Zn;1;ZN
+0066;0067;µg;Jod, I;Iodine, I;1;ID
+0067;0068;mg;Mangan, Mn;Manganese, Mn;1;MN
+0068;0069;µg;Chrom, Cr;Chromium, Cr;1;CR
+0069;0070;µg;Selen, Se;Selenium, Se;1;SE
+0072;0073;µg;Nikkel, Ni;Nickel, Ni;1;NI
+0124;0128;g;Fructose;Fructose;1;FRUS
+0126;0130;g;Glucose;Glucose;1;GLUS
+0130;0134;g;Lactose;Lactose;1;LACS
+0131;0135;g;Maltose;Maltose;1;MALS
+0132;0136;g;Saccharose;Saccharose;1;SUCS
+0138;0142;g;Sukkerarter, ialt;All sugars, total;1;SUGAR
+0144;0149;g;Stivelse;Starch;1;STARCH
+0150;0155;g;Kostfibre, total (AOAC);Dietary fibre, total (AOAC);1;FIBT
+0174;0179;g;C4:0;C 4:0;1;F4:0
+0175;0180;g;C6:0;C 6:0;1;F6:0
+0176;0181;g;C8:0;C 8:0;1;F8:0
+0177;0182;g;C10:0;C 10:0;1;F10:0
+0178;0183;g;C12:0;C 12:0;1;F12:0
+0179;0184;g;C14:0;C 14:0;1;F14:0
+0180;0185;g;C15:0;C 15:0;1;F15:0
+0181;0186;g;C16:0;C 16:0;1;F16:0
+0182;0187;g;C17:0;C 17:0;1;F17:0
+0183;0188;g;C18:0;C 18:0;1;F18:0
+0184;0189;g;C20:0;C 20:0;1;F20:0
+0185;0190;g;C22:0;C 22:0;1;F22:0
+0186;0191;g;C24:0;C 24:0;1;F24:0
+0188;0222;g;Sum mættede;Sum saturated;1;FASAT
+0189;0193;g;C14:1, n-5;C 14:1;1;F14:1
+0191;0195;g;C16:1, n-7;C 16:1;1;F16:1
+0193;0197;g;C18:1, n-9;C 18:1, n-9;1;F18:1CN9
+0194;0198;g;C18:1, n-7;C 18:1, cis n-7;1;F18:1CN7
+0197;0201;g;C20:1, n-11;C 20:1, n-11;1;F20:1CN11
+0198;0202;g;C22:1, n-9;C 22:1, n-9;1;F22:1CN9
+0200;0204;g;C22:1, n-11;C 22:1, n-11;1;F22:1CN11
+0202;0223;g;Sum monoumættede;Sum monounsaturated;1;FAMS
+0203;0207;g;C18:2, n-6;C 18:2, n-6;1;F18:2CN6
+0206;0210;g;C18:3, n-3;C 18:3, n-3;1;F18:3N3
+0208;0212;g;C18:4, n-3;C 18:4, n-3;1;F18:4CN3
+0211;0215;g;C20:4, n-6;C 20:4, n-6;1;F20:4CN6
+0212;0216;g;C20:5, n-3;C 20:5, n-3;1;F20:5CN3
+0214;0218;g;C22:5, n-3;C 22:5, n-3;1;F22:5CN3
+0215;0219;g;C22:6, n-3;C 22:6, n-3;1;F22:6CN3
+0217;0224;g;Sum polyumættede;Sum polyunsaturated;1;FAPU
+0218;0225;g;Sum n-3 fedtsyrer;Sum n-3 fatty acids;1;FAPUN3
+0219;0226;g;Sum n-6 fedtsyrer;Sum n-6 fatty acids;1;FAPUN6
+0221;0228;g;Transfedtsyrer, total;Trans fatty acids;1;FATRN
+0223;0230;mg;Cholesterol;Cholesterol;1;CHORL
+0236;0243;mg;Isoleucin;Isoleucin;1;ILE
+0237;0244;mg;Leucin;Leucine;1;LEU
+0238;0245;mg;Lysin;Lysine;1;LYS
+0239;0246;mg;Methionin;Methionine;1;MET
+0240;0247;mg;Cystin;Cystine;1;CYS
+0241;0248;mg;Phenylalanin;Phenylalanine;1;PHE
+0242;0249;mg;Tyrosin;Tyrosine;1;TYR
+0243;0250;mg;Threonin;Threonine;1;THR
+0244;0251;mg;Tryptofan;Tryptophan;1;TRP
+0245;0252;mg;Valin;Valine;1;VAL
+0246;0253;mg;Arginin;Arginine;1;ARG
+0247;0254;mg;Histidin;Histidine;1;HIS
+0248;0255;mg;Alanin;Alanine;1;ALA
+0249;0256;mg;Asparaginsyre;Aspartic acid;1;ASP
+0250;0257;mg;Glutaminsyre;Glutamic acid;1;GLU
+0251;0258;mg;Glycin;Glycine;1;GLY
+0252;0259;mg;Prolin;Proline;1;PRO
+0253;0262;mg;Serin;Serine;1;SER
+0257;0205;g;C24:1, n-9;C 24:1, n-9;1;F24:1CN9
+0259;0221;g;Andre fedtsyrer;Other fatty acids;1;FAUN
+0284;0026;µg;  25-hydroxycholecalciferol;  25-hydroxycholecalciferol;1;25OHCHOCAL
